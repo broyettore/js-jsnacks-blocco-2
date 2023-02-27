@@ -15,4 +15,4 @@ for (let i = 0; i < 3; i++) {
     nameSurname.push(fullName);
 }
 
-console.log(nameSurname)
+console.log(nameSurname);
